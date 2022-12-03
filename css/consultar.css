@@ -1,0 +1,36 @@
+div{
+    display: flex;
+}
+div h2{
+    margin-left: 500px;
+    font-family: 'Days One', sans-serif;
+}
+img{
+    height: 80px;
+    margin-left: 150px;
+}
+.formulario{
+    width: 700px;
+    margin-left: 300px;
+}
+label{
+    font-family: 'Days One', sans-serif;
+    display: flex;
+    
+}
+input{
+    width: 650px;
+    border-radius: 5px;
+    background-color: #E0E9F2;
+
+}
+#mensaje{
+    height: 200px;
+    border-radius: 5px;
+}
+button{
+    margin-top: 15px;
+    margin-left: 250px;
+    font-family: 'Days One', sans-serif;
+    width: 200px;
+}

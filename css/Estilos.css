@@ -1,0 +1,72 @@
+.textoimg p{
+    color: rgb(167, 186, 207);
+    text-align: justify;
+    width: 40%;
+    font-family: 'Days One', sans-serif;
+}
+.textoimg{
+    padding-left: 20px;
+    display: inline-block;
+}
+.imageninicial img{
+    border-radius: 10px;
+}
+.contenido{
+    display: flex;
+}
+.boton{
+    border: 3px solid rgb(150,205,236);
+    background-color: rgb(150,205,236);
+    border-radius: 10px;
+    width: 100px;
+    text-align: center;
+    font-family: 'Days One', sans-serif;
+}
+.boton a{
+    text-decoration: none;
+    color: black;
+}
+.barra a{
+    color: black;
+    text-decoration: none;
+    padding-left: 20px;
+    font-family: 'Days One', sans-serif;
+   
+}
+.barra li{
+    display: inline-block;
+    padding-top: 10px;
+}
+.informacion{
+    border: 1px solid gray;
+    background-color: rgb(230, 233, 236);
+}
+.barra nav{
+    border: 1px solid gray;
+    background-color: rgb(205,213,223);
+}
+.planesrelacionados img{
+    border-radius: 10px;
+}
+.contenido2{
+    display: flex;
+}
+.planrel{
+    padding-top: 120px;
+    padding-left: 20px;
+}
+.informacion li{
+    font-family: 'Days One', sans-serif;   
+}
+.textoimg h3{
+    font-family: 'Days One', sans-serif;
+}
+.textoimg h4{
+    font-family: 'Days One', sans-serif;
+}
+.planesrelacionados h4{
+    font-family: 'Days One', sans-serif;
+}
+.planrel h4{
+    font-family: 'Days One', sans-serif;
+}
